@@ -1,0 +1,100 @@
+[{
+    "id": "1",
+    "titulo": "Súper casa campestre en Norteamérica con piscina",
+    "ubicacion": "Bello en la Montaña",
+    "tamano": "Grande",
+    "area": 1500,
+    "habitaciones": 6,
+    "banos": 5,
+    "precio": 2500000000
+},
+{
+    "id": "2",
+    "titulo": "Villa de lujo con vista panorámica",
+    "ubicacion": "Envigado Loma del Escobero",
+    "tamano": "Grande",
+    "area": 1800,
+    "habitaciones": 8,
+    "banos": 7,
+    "precio": 3200000000
+},
+{
+    "id": "3",
+    "titulo": "Casa moderna en exclusivo condominio",
+    "ubicacion": "El Poblado Zona Alta",
+    "tamano": "Mediana",
+    "area": 950,
+    "habitaciones": 4,
+    "banos": 4,
+    "precio": 1800000000
+},
+{
+    "id": "4",
+    "titulo": "Hacienda colonial restaurada con jardines",
+    "ubicacion": "Llanogrande Rionegro",
+    "tamano": "Grande",
+    "area": 2200,
+    "habitaciones": 7,
+    "banos": 6,
+    "precio": 4100000000
+},
+{
+    "id": "5",
+    "titulo": "Penthouse de diseñador en zona exclusiva",
+    "ubicacion": "Laureles Sector Segundo Parque",
+    "tamano": "Mediana",
+    "area": 780,
+    "habitaciones": 3,
+    "banos": 3,
+    "precio": 1650000000
+},
+{
+    "id": "6",
+    "titulo": "Casa campestre con cancha de tenis privada",
+    "ubicacion": "San Jerónimo Vereda El Rincón",
+    "tamano": "Grande",
+    "area": 1950,
+    "habitaciones": 5,
+    "banos": 6,
+    "precio": 2850000000
+},
+{
+    "id": "7",
+    "titulo": "Residencia contemporánea con tecnología inteligente",
+    "ubicacion": "La Calera Sector Alto",
+    "tamano": "Grande",
+    "area": 1650,
+    "habitaciones": 5,
+    "banos": 4,
+    "precio": 3000000000
+},
+{
+    "id": "8",
+    "titulo": "Casa estilo mediterráneo con viñedos",
+    "ubicacion": "Santa Elena Camino Verde",
+    "tamano": "Grande",
+    "area": 1700,
+    "habitaciones": 6,
+    "banos": 5,
+    "precio": 2750000000
+},
+{
+    "id": "9",
+    "titulo": "Cabaña de montaña con vista al lago",
+    "ubicacion": "Guatapé Orillas del Embalse",
+    "tamano": "Mediana",
+    "area": 850,
+    "habitaciones": 4,
+    "banos": 3,
+    "precio": 1450000000
+},
+{
+    "id": "10",
+    "titulo": "Mansión histórica renovada con jardín botánico",
+    "ubicacion": "El Retiro Parcelación Los Altos",
+    "tamano": "Grande",
+    "area": 2400,
+    "habitaciones": 9,
+    "banos": 8,
+    "precio": 4800000000
+}]

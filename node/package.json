@@ -1,0 +1,19 @@
+{
+  "name": "app-rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HSERNA",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^5.1.1",
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.87.3"
+  }
+}

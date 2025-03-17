@@ -1,0 +1,6 @@
+# dotnetenv
+
+
+node_modules/
+*.log
+.env
