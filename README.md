@@ -1,1 +1,1 @@
-Aplicación RAG creada en Python, para emitir recomendaciones de compra de acuerdo con un catálogo de propiedades dummy. Usando la API de Open AI y Pinecone como base de datos vectorial para almacenar embeddings. 
+Aplicación RAG creada en Node JS, para emitir recomendaciones de compra de acuerdo con un catálogo de propiedades dummy. Usando la API de Open AI y Pinecone como base de datos vectorial para almacenar embeddings. 
